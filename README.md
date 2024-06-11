@@ -1,6 +1,6 @@
 # beReal
 
-PS: Will have to work a bit in finding the exact code :D
+PS: Will have to work a bit on finding the exact code :D
 
  
 The "BeReal Recap Enhancement Project" was initiated following dissatisfaction with the 2023 recap feature of the social media application BeReal. This project aimed to improve the user experience by creating a more immersive and personalized recap video.
