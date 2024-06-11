@@ -1,5 +1,8 @@
 # beReal
 
+PS: Will have to work a bit in finding the exact code :D
+
+ 
 The "BeReal Recap Enhancement Project" was initiated following dissatisfaction with the 2023 recap feature of the social media application BeReal. This project aimed to improve the user experience by creating a more immersive and personalized recap video.
 
 The journey began with obtaining images from BeReal using a third-party website, 'toofake.lol,' to overcome limitations in the platform's provided recap. A suitable song was then selected to accompany the images, enhancing the overall experience.
