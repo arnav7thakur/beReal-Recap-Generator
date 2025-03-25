@@ -1,5 +1,5 @@
 # beReal
-This [file ]([url](https://github.com/arnav7thakur/beReal-Recap-Generator/blob/main/BeReal-Recap-Generator-Generalized%20.ipynb)) consists of the working code. The other files include the experimentation. 
+This [file ](https://github.com/arnav7thakur/beReal-Recap-Generator/blob/main/BeReal-Recap-Generator-Generalized%20.ipynb) consists of the working code. The other files include the experimentation. 
  
 The "BeReal Recap Enhancement Project" was initiated following dissatisfaction with the 2023 recap feature of the social media application BeReal. This project aimed to improve the user experience by creating a more immersive and personalized recap video.
 
